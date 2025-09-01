@@ -1,4 +1,4 @@
-### Weather Data Analysis
+# Weather Data Analysis
 
 ## Files
 
@@ -8,20 +8,20 @@ Weather+Dataset(1).csv → Dataset
 ## Requirements
 Make sure you have the following installed:
 
-# Python 3.x
+### Python 3.x
 
-# Jupyter Notebook / Jupyter Lab
+### Jupyter Notebook / Jupyter Lab
 
-# Libraries:
+### Libraries:
 pip install pandas numpy matplotlib seaborn
 
 ## Usage
 
-# Clone the repository:
+### Clone the repository:
 git clone https://github.com/your-username/weather-data-analysis.git
 cd weather-data-analysis
 
-# Run the notebook with Jupyter:
+### Run the notebook with Jupyter:
 jupyter notebook weather-data-anaylsis.ipynb
 
 Run the cells step by step to explore the analysis.
