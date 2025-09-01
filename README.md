@@ -18,7 +18,7 @@ pip install pandas numpy matplotlib seaborn
 ## Usage
 
 ### Clone the repository:
-git clone https://github.com/your-username/weather-data-analysis.git
+git clone https://github.com/Tushar9898weather-data-analysis.git
 cd weather-data-analysis
 
 ### Run the notebook with Jupyter:
